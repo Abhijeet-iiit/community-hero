@@ -7,9 +7,9 @@ Built for the **Coding Ninjas x Google for Developers Vibe2Ship Hackathon 2026**
 ---
 
 ## 🚀 Live Demo & Repository
-- **Live Production URL:** [Paste your Vercel link here]
-- **GitHub Repository:** [Paste your GitHub link here]
-
+## 🚀 Live Demo & Repository
+- **Live Production URL:** https://community-hero-abhijeet-iiit.vercel.app
+- **GitHub Repository:** https://github.com/Abhijeet-iiit/community-hero
 ---
 
 ## 🧠 Core Engineering & AI Architecture
